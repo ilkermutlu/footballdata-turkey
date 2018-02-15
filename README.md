@@ -1,8 +1,9 @@
 ## Status
 
 ### Seasons
-- 2016-2017
-  - Results
+- [2016-2017](2016-2017)
+  - [Super Lig](2016-2017/Super%20Lig)
+    - [Results](2016-2017/Super%20Lig/results.json)
 
 ## TODO 
 - Match dates
